@@ -17,7 +17,7 @@
   * [LastPass](https://lastpass.com/edupromo.php) - 6个月免费高级账户, 密码管理
   * [TodoList](https://todoist.com/education) - 商务版5折优惠
   * [Apple Music](https://support.apple.com/zh-cn/HT205928) - 5元/月
-  * [Apple Pro App](https://support.apple.com/zh-cn/HT205928) - 1598元
+  * [Apple Pro App](https://www.apple.com/cn-k12/shop/product/BMGE2CH/A/pro-app-%E6%95%99%E8%82%B2%E5%A5%97%E8%A3%85) - 1598元
   * [SaneBox](https://www.studentappcentre.com/discounts/sanebox) - 15刀优惠劵，邮件管理
   * [ActiveDock](https://www.studentappcentre.com/discounts/activedock) - 6.5折，Dock管理工具
   * [iRingg](https://www.studentappcentre.com/discounts/iringg) - 9折，iPhone铃声制作工具
