@@ -108,6 +108,7 @@
   * [Netlify](https://www.netlify.com/education/)
   * [dropbox](https://www.dropbox.com/education)
   * [Gurobi](http://www.gurobi.com/academia/for-universities)
+  * [Coding.net](https://coding.net/campus) - 99元/年黄金会员，Git代码托管服务
 
 #### VPS
   * [DigitalOcean](https://www.digitalocean.com/github-students) - 使用Github教育包赠送50美元优惠码，现在用信用卡认证不需要额外冲5美元了，直接可用
