@@ -87,6 +87,7 @@
   * [App Tamer](https://www.studentappcentre.com/discounts/apptamer) - 5折
   * [Default Folder X](https://www.studentappcentre.com/discounts/defaultfolderx) - 5折
   * [Boom 2](http://www.globaldelight.com/store) - 7折
+  * [CleanMyMac](https://macpaw.com/macpaw-educational-discount) - 7折
   * [CleanMyPC](https://macpaw.com/macpaw-educational-discount) - 7折
   * [Gemini](https://macpaw.com/macpaw-educational-discount) - 7折
   * [Wallpaper Wizard 2](https://macpaw.com/macpaw-educational-discount) - 7折
