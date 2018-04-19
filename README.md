@@ -23,6 +23,8 @@
   * [Findings](https://community.findingsapp.com/t/student-discount-40/119) - 6折，笔记软件，侧重用实验记录
   * [Timing](https://timingapp.com/contact) - 时间管理软件
   * [Shimo](https://www.shimovpn.com/students/) - 免费，VPN客户端
+  * [Xshell](http://www.netsarang.com/download/free_license.html) - 免费, 终端工具
+  * [Xftp](http://www.netsarang.com/download/free_license.html) - 免费，FTP工具
   * [Printworks](https://www.belightsoft.com/store/nonprofit) - 7折，设计软件
   * [Disc Cover](https://www.belightsoft.com/store/nonprofit) - 7折，CD设计软件
   * [Swift Publisher](https://www.belightsoft.com/store/nonprofit) - 7折，版面设计工具
