@@ -13,6 +13,8 @@
   * [iThoughts](https://www.toketaware.com/discounts) - 5折，思维导图软件
   * [Hype](https://tumult.com/store-edu/) - 6折，HTML5动画制作工具
   * [iMazing](https://imazing.com/store/educational) - 7折，iOS设备数据管理软件
+  * [LastPass](https://lastpass.com/edupromo.php) - 6个月免费高级账户, 密码管理
+  * [TodoList](https://todoist.com/education) - 商务版5折优惠
   * [Apple Music](https://support.apple.com/zh-cn/HT205928) - 5元/月
   * [Apple Pro App](https://support.apple.com/zh-cn/HT205928) - 1598元
   * [AutoDesk](https://www.autodesk.com.cn/education/free-software/featured) - 免费使用大部分软件
@@ -78,4 +80,6 @@
     * 显示器：每学年最多可以购买两（2）台
     * iPod：每学年购买 iPod 没有数量限制
 * [Microsoft 教育商店](https://www.microsoftstore.com.cn/student) 以优惠价格购买微软产品
+* [Microsoft 教育优惠](https://imagine.microsoft.com/zh-cn) 可获取部分免费开发工具以及教育资源
+* [Office 365教育版](https://signup.microsoft.com/signup?sku=Education) - OneDrive 1TB免费存储
 * [大疆商城](https://store.dji.com/cn/education) - 可领产品优惠码
