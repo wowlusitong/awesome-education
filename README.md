@@ -1,6 +1,8 @@
 # awesome-education
 为学生收集支持教育优惠的软件与服务，开源项目离不开大家的支持和鼓励，欢迎参加 [项目补完计划](https://github.com/wowlusitong/awesome-education/issues/2)
 
+[English](README-en.md)
+
 #### 软件
   * [Setapp](https://setapp.com/educational-discount) - 5折优惠，每月4.99刀，订阅制应用商店。查看[可用软件列表](https://setapp.com/apps)
   * [JetBrains](https://www.jetbrains.com/student/) - 免费使用旗下大部分软件，如IntelliJ IDEA、WebStorm 等
