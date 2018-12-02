@@ -68,7 +68,7 @@ A collection of education discount.
   * [Cashculator](https://www.studentappcentre.com/discounts/cashculator) - 30% OFF
   * [Trickster](https://www.studentappcentre.com/discounts/trickster) - 30% OFF
   * [PDF Expert](https://www.studentappcentre.com/discounts/pdfexpert) - 50% OFF
-  * [MarginNote Pro](https://marginnote.com/marginnote-store/) - 40% OFF
+  * [MarginNote 3](https://forum.marginnote.com/t/40-off-edu-code-for-marginnote-3-application-guide/239) - 40% OFF
   * [Marked](https://www.studentappcentre.com/discounts/marked) - 50% OFF
   * [NotePlan](https://www.studentappcentre.com/discounts/noteplan) - 30% OFF
   * [Permute](https://www.studentappcentre.com/discounts/permute) - 50% OFF
