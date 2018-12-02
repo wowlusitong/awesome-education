@@ -68,7 +68,7 @@
   * [Cashculator](https://www.studentappcentre.com/discounts/cashculator) - 7折
   * [Trickster](https://www.studentappcentre.com/discounts/trickster) - 7折
   * [PDF Expert](https://www.studentappcentre.com/discounts/pdfexpert) - 5折
-  * [MarginNote Pro](https://marginnote.com/marginnote-store/?lang=zh-hans) - 6折, 国人开发的 PDF/EPUD 记录笔记、翻译、导出学习卡片的学习软件
+  * [MarginNote 3](https://cforum.marginnote.com/t/topic/457/48) - 6折, 国人开发的 PDF/EPUD 记录笔记、翻译、导出学习卡片的学习软件
   * [Marked](https://www.studentappcentre.com/discounts/marked) - 5折
   * [NotePlan](https://www.studentappcentre.com/discounts/noteplan) - 7折
   * [Permute](https://www.studentappcentre.com/discounts/permute) - 5折
