@@ -30,7 +30,6 @@ A collection of education discount.
   * [WiFi Explorer](https://www.adriangranados.com/educational-discount) - 50% OFF
   * [Findings](https://community.findingsapp.com/t/student-discount-40/119) - 40% OFF
   * [Timing](https://timingapp.com/contact) - 40% OFF
-  * [Shimo](https://www.shimovpn.com/students/) - FREE
   * [Xshell](http://www.netsarang.com/download/free_license.html) - FREE
   * [Xftp](http://www.netsarang.com/download/free_license.html) - FREE
   * [Printworks](https://www.belightsoft.com/store/nonprofit) - 30% OFF
@@ -89,7 +88,7 @@ A collection of education discount.
   * [Tower](https://www.git-tower.com/support/contact?category=Sales%20Issue) - 50% OFF
   * [App Tamer](https://www.studentappcentre.com/discounts/apptamer) - 50% OFF
   * [Default Folder X](https://www.studentappcentre.com/discounts/defaultfolderx) - 50% OFF
-  * [Boom 2](http://www.globaldelight.com/store) - 30% OFF
+  * [Boom 2](https://www.studentappcentre.com/discounts/boom?rq=boom) - 30% OFF
   * [CleanMyMac](https://macpaw.com/macpaw-educational-discount) - 30% OFF
   * [CleanMyPC](https://macpaw.com/macpaw-educational-discount) - 30% OFF
   * [Gemini](https://macpaw.com/macpaw-educational-discount) - 30% OFF

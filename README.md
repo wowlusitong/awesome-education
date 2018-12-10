@@ -30,7 +30,6 @@
   * [WiFi Explorer](https://www.adriangranados.com/educational-discount) - 5折，WiFi无线网络管理工具
   * [Findings](https://community.findingsapp.com/t/student-discount-40/119) - 6折，笔记软件，侧重用实验记录
   * [Timing](https://timingapp.com/contact) - 6折，时间管理软件
-  * [Shimo](https://www.shimovpn.com/students/) - 免费，VPN客户端
   * [Xshell](http://www.netsarang.com/download/free_license.html) - 免费, 终端工具
   * [Xftp](http://www.netsarang.com/download/free_license.html) - 免费，FTP工具
   * [Printworks](https://www.belightsoft.com/store/nonprofit) - 7折，设计软件
@@ -89,7 +88,7 @@
   * [Tower](https://www.git-tower.com/support/contact?category=Sales%20Issue) - 5折
   * [App Tamer](https://www.studentappcentre.com/discounts/apptamer) - 5折
   * [Default Folder X](https://www.studentappcentre.com/discounts/defaultfolderx) - 5折
-  * [Boom 2](http://www.globaldelight.com/store) - 7折
+  * [Boom 2](https://www.studentappcentre.com/discounts/boom?rq=boom) - 7折
   * [CleanMyMac](https://macpaw.com/macpaw-educational-discount) - 7折
   * [CleanMyPC](https://macpaw.com/macpaw-educational-discount) - 7折
   * [Gemini](https://macpaw.com/macpaw-educational-discount) - 7折
