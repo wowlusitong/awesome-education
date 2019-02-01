@@ -150,6 +150,9 @@
   * [美国计算机学会（ACM）](https://www.ccf.org.cn/tjjracm/) - 在成为CCF会员后，学生会员可以以优惠价格成为ACM会员。
   * [美国电子与电气工程师协会计算机学会（IEEE CS）](https://www.ccf.org.cn/membership/tjjrieeecs-acm/) - 在成为CCF会员后，学生会员可以以优惠价格成为IEEE CS会员。
 
+#### 阅读/教育
+* [Safari Books Online](https://www.safaribooksonline.com/) - O'Reilly（动物书的出版社）创办的在线教育平台。成为ACM会员后可以免费使用
+
 #### 其他  
 * [Apple 教育商店](https://www.apple.com/cn-k12/shop) 以优惠价格购买苹果产品
     * 台式电脑或笔记本：每学年共可以购买两（2）台

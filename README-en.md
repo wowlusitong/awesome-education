@@ -141,3 +141,6 @@ A collection of education discount.
 * [China Computer Federation(CCF)](https://www.ccf.org.cn/c/2017-02-22/582915.shtml) - Students can join CCF with a special fee, enjoying free digital communications.
   * [Association for Computing Machinery(ACM)](https://www.ccf.org.cn/tjjracm/) - After joining CCF, students can join ACM with a special fee.
   * [IEEE Computer Society(IEEE CS)](https://www.ccf.org.cn/membership/tjjrieeecs-acm/) - After joining CCF, students can join IEEE CS with a special fee.
+
+#### Learning
+* [Safari Books Online](https://www.safaribooksonline.com/) - A learning platform founded by O'Reilly. Use freely by becoming ACM membership
