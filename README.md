@@ -118,6 +118,9 @@
   * [DigitalOcean](https://www.digitalocean.com/github-students) - 使用Github教育包赠送50美元优惠码，现在用信用卡认证不需要额外冲5美元了，直接可用
   * [腾讯云](https://cloud.tencent.com/act/campus) - 10元/月
   * [阿里云](https://promotion.aliyun.com/ntms/campus2017.html) - 9.5元/月
+  * [华为云](https://developer.huaweicloud.com/campus) - 可以以9元/月的价格购买云服务器（1C2G1M40G）。并可购买数据库/容器等服务
+  * [天翼云](https://www.ctyun.cn/esurfing/index) - 可以以9.9元/月的价格购买云服务器（1C2G1M40G）
+  * [百度云](https://cloud.baidu.com/campaign/campus-2018/index.html) - 可以以18元/3月的价格购买云服务器（1C2G1M40G）
 
 #### [Github](https://education.github.com/)
   * Github 高级账户
@@ -141,6 +144,14 @@
   * Thinkful
   * transifex
   * Unreal Engine
+
+#### 会员资格
+* [中国计算机学会（CCF）](https://www.ccf.org.cn/c/2017-02-22/582915.shtml) - 学生可以以优惠价格加入会员，并免费获取学会通讯电子版。
+  * [美国计算机学会（ACM）](https://www.ccf.org.cn/tjjracm/) - 在成为CCF会员后，学生会员可以以优惠价格成为ACM会员。
+  * [美国电子与电气工程师协会计算机学会（IEEE CS）](https://www.ccf.org.cn/membership/tjjrieeecs-acm/) - 在成为CCF会员后，学生会员可以以优惠价格成为IEEE CS会员。
+
+#### 阅读/教育
+* [Safari Books Online](https://www.safaribooksonline.com/) - O'Reilly（动物书的出版社）创办的在线教育平台。成为ACM会员后可以免费使用
 
 #### 其他  
 * [Apple 教育商店](https://www.apple.com/cn-k12/shop) 以优惠价格购买苹果产品
