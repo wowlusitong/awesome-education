@@ -113,6 +113,7 @@
   * [Gurobi](http://www.gurobi.com/academia/for-universities)
   * [Coding.net](https://coding.net/campus) - 99元/年黄金会员，Git代码托管服务
   * [Axure](https://www.axure.com/edu) - 免费，产品原型工具
+  * [Notion](https://www.notion.so/students) - 免费 文档编辑
 
 #### VPS
   * [DigitalOcean](https://www.digitalocean.com/github-students) - 使用Github教育包赠送50美元优惠码，现在用信用卡认证不需要额外冲5美元了，直接可用
