@@ -113,6 +113,7 @@ A collection of education discount.
   * [Gurobi](http://www.gurobi.com/academia/for-universities)
   * [Coding.net](https://coding.net/campus)
   * [Axure](https://www.axure.com/edu) - Free, a prototyping software
+  * [Taskade](https://taskade.com) - 50% OFF with discount code students50. Real-time organization and collaboration tool for getting things done. 
 
 #### [Github](https://education.github.com/)
   * Github
