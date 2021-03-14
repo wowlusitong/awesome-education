@@ -103,7 +103,7 @@
   * [Fantastical](https://flexibits.com/store?coupon=education) - 8折
   * Namecheap - Github教育礼包，免费一年SSL证书，一年.me域名
   * [Capto](https://www.globaldelight.com/capto/educators) - 屏幕录像与视频编辑
-  * [Trello](https://trello.com/education) - 免费
+  * [Trello](https://help.trello.com/article/1133-educational-discount) - 7折
   * [Slack](https://get.slack.help/hc/en-us/articles/206646877-Slack-for-Education) - 1.5折
   * [abstract](https://www.goabstract.com/pricing/) - 非商业与教育需用邮件申请
   * [MATLAB](https://ww2.mathworks.cn/academia/tah-support-program/eligibility.html?s_tid=tfa_student_licenseCheck) - 高校授权
