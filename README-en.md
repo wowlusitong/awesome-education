@@ -103,7 +103,7 @@ A collection of education discount.
   * [Fantastical](https://flexibits.com/store?coupon=education) - 20% OFF
   * Namecheap -
   * [Capto](https://www.globaldelight.com/capto/educators) -
-  * [Trello](https://trello.com/education) -
+  * [Trello](https://help.trello.com/article/1133-educational-discount) - 30% OFF
   * [Slack](https://get.slack.help/hc/en-us/articles/206646877-Slack-for-Education) - 85% OFF
   * [abstract](https://www.goabstract.com/pricing/) -
   * [MATLAB](https://ww2.mathworks.cn/academia/tah-support-program/eligibility.html?s_tid=tfa_student_licenseCheck) -
