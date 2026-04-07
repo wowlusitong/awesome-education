@@ -3,6 +3,7 @@
 
 [English](README-en.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for education technology workflow orchestration, automated learning pipeline management, and multi-agent coordination. MIT licensed.
 #### 软件
   * [Setapp](https://setapp.com/educational-discount) - 5折优惠，每月4.99刀，订阅制应用商店。查看[可用软件列表](https://setapp.com/apps)
   * [JetBrains](https://www.jetbrains.com/student/) - 免费使用旗下大部分软件，如IntelliJ IDEA、WebStorm 等
