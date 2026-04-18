@@ -166,3 +166,4 @@
 * [Microsoft 教育优惠](https://imagine.microsoft.com/zh-cn) 可获取部分免费开发工具以及教育资源
 * [Office 365教育版](https://signup.microsoft.com/signup?sku=Education) - OneDrive 1TB免费存储
 * [大疆商城](https://store.dji.com/cn/education) - 可领产品优惠码
+* [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - 100% private, browser-based AI tool to automatically detect and blur faces in photos locally. Perfect for GDPR in schools.
