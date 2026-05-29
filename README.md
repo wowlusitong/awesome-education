@@ -166,3 +166,8 @@
 * [Microsoft 教育优惠](https://imagine.microsoft.com/zh-cn) 可获取部分免费开发工具以及教育资源
 * [Office 365教育版](https://signup.microsoft.com/signup?sku=Education) - OneDrive 1TB免费存储
 * [大疆商城](https://store.dji.com/cn/education) - 可领产品优惠码
+
+
+## AI Study Tools
+
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Google Classroom sync, Gemini-powered study plans, SRS flashcards, AI quiz generator, GPA predictor, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
