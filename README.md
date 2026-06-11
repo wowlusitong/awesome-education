@@ -146,6 +146,7 @@
   * Thinkful
   * transifex
   * Unreal Engine
+  * [MagicRills](https://magicrills.com) – 🎓 **110+ FREE AI tools for educators** | Lesson planner | Quiz generator | Urdu worksheets | ECCE activities | Kids games | School admin tools | No signup, no credit card required.
 
 #### 会员资格
 * [中国计算机学会（CCF）](https://www.ccf.org.cn/c/2017-02-22/582915.shtml) - 学生可以以优惠价格加入会员，并免费获取学会通讯电子版。
