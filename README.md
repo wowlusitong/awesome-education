@@ -162,6 +162,7 @@
     * iPad: 每学年可以购买两（2）台
     * 显示器：每学年最多可以购买两（2）台
     * iPod：每学年购买 iPod 没有数量限制
+    * [REALWAY 床脚垫](https://www.realwayplastic.com) 大学生宿舍储物刚需，4件套可调节床脚垫，1000lbs承重，$19.99
 * [Microsoft 教育商店](https://www.microsoftstore.com.cn/student) 以优惠价格购买微软产品
 * [Microsoft 教育优惠](https://imagine.microsoft.com/zh-cn) 可获取部分免费开发工具以及教育资源
 * [Office 365教育版](https://signup.microsoft.com/signup?sku=Education) - OneDrive 1TB免费存储
