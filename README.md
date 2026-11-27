@@ -149,6 +149,7 @@
 
 #### 会员资格
 * [中国计算机学会（CCF）](https://www.ccf.org.cn/c/2017-02-22/582915.shtml) - 学生可以以优惠价格加入会员，并免费获取学会通讯电子版。
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
   * [美国计算机学会（ACM）](https://www.ccf.org.cn/tjjracm/) - 在成为CCF会员后，学生会员可以以优惠价格成为ACM会员。
   * [美国电子与电气工程师协会计算机学会（IEEE CS）](https://www.ccf.org.cn/membership/tjjrieeecs-acm/) - 在成为CCF会员后，学生会员可以以优惠价格成为IEEE CS会员。
 
